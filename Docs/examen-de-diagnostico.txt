@@ -1,0 +1,37 @@
+Luis Antonio Villegas Hernández
+4°A Matutino
+08/03/2019
+tonyvllegas@gmail.com
+https://github.com/antoniovillegash
+
+1-describa el concepto de pila:
+es una estructura de datos en la cual los datos se almacenan apilandose unos sobre otros.
+
+2-describa el concepto de lista doblemente ligado:
+
+3-describa el concepto de recursividad:
+es una clase que se manda a llamar dentro de si misma, hasta que se cumpla una condición.
+
+4-describa el concepto de compilador:
+es el que traduce las intrucciones de lenguaje de alto nivel a uno de bajo nivel.
+
+5-describa el concepto de un lenguaje de programación interpretado:
+
+6-describa el concepto de sobrecagar un metodo:
+heredar un metodo de las clases padre y sobreescribir sus metodos
+
+7-describa para que se utiliza el constructor:
+para la creación de objetos, estos pueden ser vacios o con atrubutos.
+
+8-describa el concepto de polimorfismo:
+
+9-identifique los componentes relacionados a la estructura lifo
+10-¿a qué se le conoce como apuntador y cuáles son sus caracteristicas?:
+es una variable que apunta a un espacio en memoria específica.
+
+11-explique la diferencia entre while y do while:
+la estructura while primero evalua la condición y luego ejecuta el código y el do while primero ejecuta el ćodigo y despues hace la evaluación de dicha condición. 
+
+12-describa las expectativas de la materia: aprender a desarrollar programas con interfaces gráficas con tecnologías modernas 
+
+
