@@ -12,8 +12,7 @@ public class Matriz {
 				if(i%2==0) {
 					System.out.print(matriz[j][i]);
 				}else {
-					j=3-j;
-					System.out.print(matriz[j][i]);
+					System.out.print(matriz[3-j][i]);
 				}
 				
 			}
